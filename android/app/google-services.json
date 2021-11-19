@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261444406253",
+    "project_id": "fluttertest-1bb64",
+    "storage_bucket": "fluttertest-1bb64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261444406253:android:32b1367b5d69bca7b735e4",
+        "android_client_info": {
+          "package_name": "com.twistic.twistic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261444406253-ci1qjele30h81ldvh2amco663kjjk47u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7S_Z_Sv3119CMc7mHgrhNy55h9Bf_AmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261444406253-ci1qjele30h81ldvh2amco663kjjk47u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
